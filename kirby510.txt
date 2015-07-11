@@ -5,6 +5,5 @@ Ini adalah magic git
 new editing
 
 new line
-add 1 line
-teddstdd dtdedsdtd hdudmdpdhudmd
-add another linep
+
+test test humphump
