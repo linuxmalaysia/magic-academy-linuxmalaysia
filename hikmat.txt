@@ -2,4 +2,6 @@
 
 Hi Waddup hello mari belajar git.
 
+# lets hope I can learn at least something about things i've been struggling about with Git. Gosh this is confusing.
+
 >>> git commands are being pushed.
