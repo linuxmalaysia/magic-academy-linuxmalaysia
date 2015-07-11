@@ -1,0 +1,5 @@
+#hello
+
+Hi Waddup hello mari belajar git.
+
+>>> git commands are being pushed.
