@@ -1,0 +1,2 @@
+This is second file for git course
+
