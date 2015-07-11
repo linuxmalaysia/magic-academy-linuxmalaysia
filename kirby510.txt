@@ -5,3 +5,5 @@ Ini adalah magic git
 new editing
 
 new line
+
+test teste
